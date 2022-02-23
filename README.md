@@ -8,4 +8,4 @@ from jazzcat import jazz_it_up
 jazz_it_up('ROY VORSTER', 1999)
 ```
 
-Use at own risk.
+Check out 1999 on my profile, commits in [easteregg](https://github.com/RoyVorster/easteregg).
